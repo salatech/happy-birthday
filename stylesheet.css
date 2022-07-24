@@ -1305,7 +1305,7 @@ audio {
         background-color: #466baf;
     }
 
-@media screen and (max-width:450px){
+@media screen and (max-width:700px){
 	.balloons {
 	position: fixed;
 	bottom: -200px;
